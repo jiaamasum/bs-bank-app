@@ -3,6 +3,7 @@
 A simple Java console application to manage bank accounts - create customers, deposit, withdraw, transfer money and view transaction history.
 
 ## 📂 Project Structure
+```text
 BankAccountManagementSystem/
 ├── src/main/java/thebankapp/
 │ ├── Account.java
@@ -11,6 +12,7 @@ BankAccountManagementSystem/
 │ └── Transactions.java
 ├── pom.xml
 └── .gitignore
+```
 
 ## ⚙️ Features
 - Create and manage accounts
